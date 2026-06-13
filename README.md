@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/FrankSixGod/consciousness-core-v5?style=social)](https://github.com/FrankSixGod/consciousness-core-v5)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-red?style=social)](https://github.com/sponsors/FrankSixGod)
+[![Sponsor](https://img.shields.io/badge/Sponsor-💖-red?style=social)](https://www.paypal.me/你的PayPal账号)
 
 ---
 
@@ -212,3 +212,22 @@ MIT License - 可自由使用、修改、分发。
 ---
 
 **意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！** 🏆
+
+---
+
+## 💰 支持意识核 v5.0 开发（捐赠档位）
+
+| 档位 | 月付金额 | 权益 | 适用场景 |
+|-------|----------|------|----------|
+| **Standard** | $28/月（≈¥199） | 基础记忆+状态管理 | 个人开发者 |
+| **Professional** | $70/月（≈¥499） | 多信号检索+角色协作 | 小团队 |
+| **Enterprise** | $140/月（≈¥999） | 零摩擦迁移+4层防护 | 企业用户 |
+| **Cluster** | $210/月（≈¥1499） | 多Agent同步+主控制核心 | 大型部署 |
+
+**👉 点击这里捐赠：https://www.paypal.me/你的PayPal账号**
+
+*（临时方案：GitHub Sponsors 申请中，审核通过后切换为官方赞助按钮）*
+
+---
+
+**意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！** 🚀
