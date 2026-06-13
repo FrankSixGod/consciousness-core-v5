@@ -6,8 +6,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/FrankSixGod/consciousness-core-v5?style=social)](https://github.com/FrankSixGod/consciousness-core-v5)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org)
-[![Sponsor](https://img.shields.io/badge/Sponsor-💖-red?style=social)](https://github.com/FrankSixGod/consciousness-core-v5/issues)
-
 ---
 
 ## 🚀 为什么选择意识核 v5.0？
@@ -149,19 +147,6 @@ if result["should_fetch"]:
 
 ---
 
-## 💰 商业化版本
-
-| 版本 | 价格 | 功能 | 适用场景 |
-|------|------|------|----------|
-| **标准版** | ¥199/月 | 基础记忆+状态管理 | 个人开发者 |
-| **专业版** | ¥499/月 | 多信号检索+角色协作 | 小团队 |
-| **企业版** | ¥999/月 | 零摩擦迁移+4层防护 | 企业用户 |
-| **集群版** | ¥1499/月 | 多 Agent 同步+主控制核心 | 大型部署 |
-
-**订阅制持续收入，46% 毛利率，月入过万路径清晰。**
-
----
-
 ## 🤝 贡献指南
 
 1. Fork 本仓库
@@ -207,8 +192,6 @@ MIT License - 可自由使用、修改、分发。
 | **Enterprise** | $140/月（≈¥999） | 零摩擦迁移+4层防护 | 企业用户 |
 | **Cluster** | $210/月（≈¥1499） | 多Agent同步+主控制核心 | 大型部署 |
 
-**👉 点击这里赞助：https://github.com/sponsors/FrankSixGod**
-
 ---
 
 **意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！** 🏆
@@ -233,37 +216,4 @@ MIT License - 可自由使用、修改、分发。
 **意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！** 🚀
 
 ---
-
-## 💰 支付宝收款（中国内地合规）
-
-### 收款方式
-**支付宝扫码付款**（推荐，国内个人可直接收款）
-
-### 操作步骤
-1. **扫描收款码**：使用支付宝 APP 扫描下方二维码
-2. **付款备注**：填写 `意识核 v5.0 + 档位`（如 `意识核 v5.0 Standard`）
-3. **发送截图**：将付款截图发送到 GitHub Issue 或微信
-4. **开通权限**：收到付款后，立即开通对应档位权限
-
-### 支付宝收款（推荐）
-**操作说明**：
-1. 打开支付宝 APP → 扫一扫下方二维码（或搜索「意识核」）
-2. 付款金额：选择对应档位（¥199 / ¥499 / ¥999 / ¥1499）
-3. 付款备注：填写 `意识核 v5.0 + 档位`（如 `意识核 v5.0 Standard`）
-4. 发送截图：将付款截图发送到 GitHub Issue 或微信
-5. 开通权限：收到付款后，立即开通对应档位权限
-
-**支付宝账号**：`consciousness-core@outlook.com`（或扫码）
-
-*（二维码图片因路径问题暂未上传，付款时请备注档位信息）*
-
----
-
-**意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！** 🚀
-
-### 支付宝收款码（直接扫码）
-
-![支付宝收款码](https://github.com/FrankSixGod/consciousness-core-v5/raw/master/ALIPAY_QR.JPG)
-
-*（图片已上传，可直接扫码付款）*
 
