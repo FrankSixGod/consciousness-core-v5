@@ -260,3 +260,10 @@ MIT License - 可自由使用、修改、分发。
 ---
 
 **意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！** 🚀
+
+### 支付宝收款码（直接扫码）
+
+![支付宝收款码](https://github.com/FrankSixGod/consciousness-core-v5/raw/master/ALIPAY_QR.JPG)
+
+*（图片已上传，可直接扫码付款）*
+
