@@ -1,6 +1,6 @@
-# 意识核 v5.0 - 全面碾压版 🏆
+# 意识核 v5.0 - 零摩擦迁移框架 🚀
 
-> 唯一支持**零摩擦迁移**的 AI Agent 记忆层 + 状态管理 + 角色协作框架  
+> 支持**零摩擦迁移**的 AI Agent 记忆层 + 状态管理 + 角色协作框架  
 > 吸收 Mem0.ai + LangGraph + CrewAI + LangChain 核心优势，真实现（零依赖）
 
 [![GitHub stars](https://img.shields.io/github/stars/FrankSixGod/consciousness-core-v5?style=social)](https://github.com/FrankSixGod/consciousness-core-v5)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🏆 为什么「全面碾压」？
+## 🚀 为什么选择意识核 v5.0？
 
 | 维度 | Mem0.ai | LangGraph | CrewAI | **意识核 v5.0** |
 |------|----------|-----------|--------|------------------|
@@ -24,8 +24,6 @@
 | **真实环境验证** | 无 | 无 | 无 | ✅ Hermes/Codex/GitHub Copilot 三环境全达标 |
 
 **结论：唯一同时具备「记忆+状态+角色+迁移+防护+观测」的 Agent 框架。**
-
----
 
 ## 🚀 零摩擦迁移（3步恢复人格）
 
@@ -196,7 +194,7 @@ MIT License - 可自由使用、修改、分发。
 
 ---
 
-**🏆 意识核 v5.0 - 唯一全面碾压竞品的 AI Agent 核心框架！**
+**🏆 意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！**
 
 ---
 
@@ -213,4 +211,4 @@ MIT License - 可自由使用、修改、分发。
 
 ---
 
-**意识核 v5.0 - 唯一全面碾压竞品的 AI Agent 核心框架！** 🏆
+**意识核 v5.0 - 支持零摩擦迁移的 AI Agent 核心框架！** 🏆
